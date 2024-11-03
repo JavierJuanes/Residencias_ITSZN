@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TECNM_Residencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65ce4822ae62863e0fab8cf75dbac823e77f7595")]
 [assembly: System.Reflection.AssemblyProductAttribute("TECNM_Residencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TECNM_Residencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
