@@ -1,0 +1,17 @@
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.exe
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.deps.json
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.runtimeconfig.json
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Form1.resources
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.GenerateResource.cache
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfoInputs.cache
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfo.cs
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.CoreCompileInputs.cache
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\refint\TECNM_Residencia.dll
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.genruntimeconfig.cache
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\ref\TECNM_Residencia.dll
+C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Properties.Resources.resources
