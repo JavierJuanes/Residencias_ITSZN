@@ -7,5 +7,14 @@ namespace TECNM_Residencia
             InitializeComponent();
         }
 
+        private void panelLOGO_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
