@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 01-11-2024 a las 00:12:42
+-- Tiempo de generación: 06-11-2024 a las 21:51:27
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -67,7 +67,8 @@ CREATE TABLE `proyectos` (
   `Estado` varchar(50) NOT NULL,
   `FechaRegistro` date NOT NULL,
   `JefeDivisionID` int(11) DEFAULT NULL,
-  `DocenteAsesorID` int(11) DEFAULT NULL
+  `DocenteAsesorID` int(11) DEFAULT NULL,
+  `carrera` varchar(100) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 -- --------------------------------------------------------
