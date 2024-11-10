@@ -9,7 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+
     <PackageReference Include="itext7" Version="8.0.5" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
   </ItemGroup>
 
   <ItemGroup>

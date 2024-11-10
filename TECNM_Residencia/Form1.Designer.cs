@@ -38,12 +38,20 @@
             panelMenuArriba = new Panel();
             PDF = new ComboBox();
             labelTitulo = new Label();
-            button2 = new Button();
+            SubirPDF = new Panel();
+            PDFformato = new Label();
+            Subir = new Button();
+            Cancelar = new Button();
+            flechaSubir = new PictureBox();
             panelMenuLateral.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pb_logo_tecnm).BeginInit();
             panelnfoPersonal.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             panelMenuArriba.SuspendLayout();
+
+
+            SubirPDF.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)flechaSubir).BeginInit();
             SuspendLayout();
             // 
             // panelMenuLateral
@@ -70,6 +78,16 @@
             pb_logo_tecnm.TabStop = false;
             pb_logo_tecnm.UseWaitCursor = true;
             // 
+            // pb_logo_tecnm
+            // 
+            pb_logo_tecnm.Image = (Image)resources.GetObject("pb_logo_tecnm.Image");
+            pb_logo_tecnm.Location = new Point(42, 44);
+            pb_logo_tecnm.Name = "pb_logo_tecnm";
+            pb_logo_tecnm.Size = new Size(255, 125);
+            pb_logo_tecnm.SizeMode = PictureBoxSizeMode.StretchImage;
+            pb_logo_tecnm.TabIndex = 3;
+            pb_logo_tecnm.TabStop = false;
+            // 
             // panelnfoPersonal
             // 
             panelnfoPersonal.BackColor = Color.MidnightBlue;
@@ -93,6 +111,16 @@
             pictureBox1.TabIndex = 4;
             pictureBox1.TabStop = false;
             pictureBox1.UseWaitCursor = true;
+            // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Location = new Point(117, 0);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(129, 117);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
+            pictureBox1.TabIndex = 4;
+            pictureBox1.TabStop = false;
             // 
             // labelNombrePersona
             // 
@@ -155,6 +183,7 @@
             labelTitulo.Text = " Gestión de Residencias Profesionales";
             labelTitulo.UseWaitCursor = true;
             // 
+
             // button2
             // 
             button2.Location = new Point(271, 414);
@@ -172,6 +201,68 @@
             BackColor = Color.Ivory;
             ClientSize = new Size(934, 449);
             Controls.Add(button2);
+            // SubirPDF
+            // 
+            SubirPDF.AllowDrop = true;
+            SubirPDF.BorderStyle = BorderStyle.FixedSingle;
+            SubirPDF.Controls.Add(PDFformato);
+            SubirPDF.Controls.Add(Subir);
+            SubirPDF.Controls.Add(Cancelar);
+            SubirPDF.Controls.Add(flechaSubir);
+            SubirPDF.Location = new Point(357, 75);
+            SubirPDF.Name = "SubirPDF";
+            SubirPDF.Size = new Size(977, 860);
+            SubirPDF.TabIndex = 2;
+            // 
+            // PDFformato
+            // 
+            PDFformato.AutoSize = true;
+            PDFformato.Font = new Font("Arial", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            PDFformato.Location = new Point(284, 146);
+            PDFformato.Name = "PDFformato";
+            PDFformato.Size = new Size(407, 21);
+            PDFformato.TabIndex = 3;
+            PDFformato.Text = "Reporte preliminar de Residencia Profesional";
+            // 
+            // Subir
+            // 
+            Subir.Location = new Point(128, 586);
+            Subir.Name = "Subir";
+            Subir.Size = new Size(157, 40);
+            Subir.TabIndex = 4;
+            Subir.Text = "Subir";
+            Subir.UseVisualStyleBackColor = true;
+            Subir.Click += Subir_Click;
+            // 
+            // Cancelar
+            // 
+            Cancelar.Location = new Point(669, 586);
+            Cancelar.Name = "Cancelar";
+            Cancelar.Size = new Size(157, 40);
+            Cancelar.TabIndex = 5;
+            Cancelar.Text = "Cancelar";
+            Cancelar.UseVisualStyleBackColor = true;
+            Cancelar.Click += Cancelar_Click;
+            // 
+            // flechaSubir
+            // 
+            flechaSubir.BorderStyle = BorderStyle.FixedSingle;
+            flechaSubir.Image = Properties.Resources.flecha2;
+            flechaSubir.Location = new Point(128, 210);
+            flechaSubir.Name = "flechaSubir";
+            flechaSubir.Size = new Size(724, 284);
+            flechaSubir.SizeMode = PictureBoxSizeMode.CenterImage;
+            flechaSubir.TabIndex = 0;
+            flechaSubir.TabStop = false;
+            // 
+            // Form1
+            // 
+            AllowDrop = true;
+            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Ivory;
+            ClientSize = new Size(1334, 935);
+            Controls.Add(SubirPDF);
             Controls.Add(panelMenuArriba);
             Controls.Add(panelMenuLateral);
             ForeColor = SystemColors.ButtonHighlight;
@@ -186,6 +277,11 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             panelMenuArriba.ResumeLayout(false);
             panelMenuArriba.PerformLayout();
+
+
+            SubirPDF.ResumeLayout(false);
+            SubirPDF.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)flechaSubir).EndInit();
             ResumeLayout(false);
         }
 
@@ -201,5 +297,10 @@
         private PictureBox pictureBox1;
         private Button button2;
         private ComboBox PDF;
+        private Panel SubirPDF;
+        private PictureBox flechaSubir;
+        private Label PDFformato;
+        private Button Subir;
+        private Button Cancelar;
     }
 }
