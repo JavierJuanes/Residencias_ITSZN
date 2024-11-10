@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {}
+    "C:\\Users\\Taller\\Documents\\Proyecto_Dani\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {
+    "C:\\Users\\Taller\\Documents\\Proyecto_Dani\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
+        "projectUniqueName": "C:\\Users\\Taller\\Documents\\Proyecto_Dani\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
         "projectName": "TECNM_Residencia",
-        "projectPath": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\obj\\",
+        "projectPath": "C:\\Users\\Taller\\Documents\\Proyecto_Dani\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
+        "packagesPath": "C:\\Users\\Taller\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Taller\\Documents\\Proyecto_Dani\\Residencias_ITSZN\\TECNM_Residencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Taller\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +45,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "itext7": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

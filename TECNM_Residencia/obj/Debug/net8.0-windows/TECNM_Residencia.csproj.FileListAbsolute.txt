@@ -15,3 +15,44 @@ C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Resi
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.genruntimeconfig.cache
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\ref\TECNM_Residencia.dll
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Properties.Resources.resources
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.exe
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.deps.json
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.runtimeconfig.json
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Form1.resources
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Properties.Resources.resources
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.GenerateResource.cache
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfoInputs.cache
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfo.cs
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.CoreCompileInputs.cache
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.sourcelink.json
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\refint\TECNM_Residencia.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.genruntimeconfig.cache
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\ref\TECNM_Residencia.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.AssemblyReference.cache
+C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Re.CDF2B743.Up2Date

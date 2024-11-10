@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TECNM_Residencia
-build_property.ProjectDir = C:\Users\HP\Documents\C#\Residencias_ITSZN\TECNM_Residencia\
+build_property.ProjectDir = C:\Users\Taller\Documents\Proyecto_Dani\Residencias_ITSZN\TECNM_Residencia\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
