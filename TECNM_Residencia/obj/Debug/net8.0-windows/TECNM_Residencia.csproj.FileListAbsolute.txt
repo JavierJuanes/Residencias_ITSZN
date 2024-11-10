@@ -15,3 +15,37 @@ C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Resi
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.genruntimeconfig.cache
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\ref\TECNM_Residencia.dll
 C:\Users\Paola\Documents\Visual Studio 2022\proyecto\TECNM_Residencia\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Form1.resources
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.sourcelink.json
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\refint\TECNM_Residencia.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.exe
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.deps.json
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\TECNM_Residencia.pdb
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Re.CDF2B743.Up2Date
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\TECNM_Residencia.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Xitlalic\Residencias_ITSZN\TECNM_Residencia\obj\Debug\net8.0-windows\ref\TECNM_Residencia.dll

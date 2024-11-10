@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {}
+    "C:\\Users\\LENOVO\\Downloads\\Xitlalic\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {
+    "C:\\Users\\LENOVO\\Downloads\\Xitlalic\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\Xitlalic\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
         "projectName": "TECNM_Residencia",
-        "projectPath": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\C#\\Residencias_ITSZN\\TECNM_Residencia\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Downloads\\Xitlalic\\Residencias_ITSZN\\TECNM_Residencia\\TECNM_Residencia.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Downloads\\Xitlalic\\Residencias_ITSZN\\TECNM_Residencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,6 +44,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.119, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
